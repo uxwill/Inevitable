@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Inevitable</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scan">ScanActivity</string>
+
+    <string name="quote1">First, strangely, the owls had died. At the time it had seemed almost funny, the fat, fluffy white birds lying here and there, in yards and on streets; coming out no earlier than twilight as they had while alive the owls escaped notice.</string>
+    <string name="quote2">You will be required to do wrong no matter where you go. It is the basic condition of life, to be required to violate your own identity. At some time, every creature which lives must do so. It is the ultimate shadow, the defeat of creation; this is the curse at work, the curse that feeds on all life. Everywhere in the universe.</string>
+
+    <string name="human1">I would really like some cheesecake right now, if only it hadn\'t been outlawed 20 years ago.</string>
+    <string name="human2">I thought I saw a rat in the street earlier, but it turned out to be a government spy.</string>
+
+    <string name="android1">The past seems so nice, beings back in 2015 must have been so incredibly happy without having to guess if the person in front of you is made of silicon and or flesh.</string>
+    <string name="android2">Hello fellow citizen, besides the lack of breathable air, it\'s a rather pleasant evening, don\'t you think?</string>
+
+    <string name="title_activity_quote">QuoteActivity</string>
+</resources>
